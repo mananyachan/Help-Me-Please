@@ -106,6 +106,16 @@ public class AddValue extends FragmentActivity implements OnMapReadyCallback {
             }//onClick
         });
 
+        //saveButton Controller
+        saveButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+
+
+            }//onClick
+        });
+
 
 
 
